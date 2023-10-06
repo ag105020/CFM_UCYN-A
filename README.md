@@ -16,11 +16,5 @@ Plotting Fig. S5:
 Plotting Fig. S6:
 <br> Run U001_05_43_shading_only.py
 
-Plotting Fig. S7:
-<br> Run U_005_02_Revision.py
-
-Plotting Fig. S8:
-<br> Run U003_00_05_Histogram_UCYN-A_flip.py
-
 Plotting Fig. S9:
 <br> Run U001_05_38_three_different_C-V.py
