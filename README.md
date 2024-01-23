@@ -1,4 +1,4 @@
-# CFM-UCYN-A
+# CFM_UCYN-A
 Cell Flux Model of UCYN-A
 
 Preparation:
